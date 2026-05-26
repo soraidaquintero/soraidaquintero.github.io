@@ -61,3 +61,7 @@ This visualization summarizes the spatial autocorrelation patterns identified in
 <img width="468" height="343" alt="image" src="https://github.com/user-attachments/assets/a28e8edf-cc7a-47db-879f-405b284cef02" />
 
 This visualization shows how spatial similarity between neighboring residential yards changes as the distance between yards increases. Moran’s I values closer to 1 indicate stronger spatial autocorrelation, meaning nearby neighbors are more likely to have similar yard characteristics or behaviors. The results show that mimicry patterns are strongest among nearby neighbors and gradually decrease as yard distance increases. Different neighbor distance scenarios were analyzed to evaluate how localized social interactions influence spatial patterns across residential landscapes in Chicago.
+
+## Simulation Visualization
+
+![Simulation](neighborhood-simulation.gif)
