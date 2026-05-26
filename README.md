@@ -14,7 +14,7 @@ I am a PhD researcher working at the intersection of machine learning, predictiv
 ## Current Projects
 - [About Me](about.md)
 - [Neighborhood Gentrification Prediction Model](gentrification.md)
-- Spatial Mimicry in Residential Yards
+- [Spatial Mimicry and Front Yard Management in Chicago](yard-project.md)
 - Feral Dog Population Management Modeling
 - Real Estate Consumer Preference Database (in progress)
 
