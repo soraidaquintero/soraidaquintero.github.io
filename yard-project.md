@@ -47,3 +47,15 @@ The goal of this research is to better understand how social interactions contri
 - Linux
 - Parallel Computing
 - Simulation Modeling
+
+## Spatial Visualization
+
+### Moran's I Cluster Analysis
+
+<img width="386" height="553" alt="image" src="https://github.com/user-attachments/assets/ce08d145-2810-4873-b998-0da65ebc688b" />
+This visualization summarizes the spatial autocorrelation patterns identified in the yard management model under different neighborhood comparison scenarios. The color gradient represents Global Moran’s I values, where warmer colors indicate stronger spatial clustering or mimicry among neighboring yards. Significant spatial patterns were primarily observed when nearby neighbors had similar yard characteristics, while more random or dissimilar yard conditions showed weaker spatial autocorrelation. These results suggest that localized neighbor interactions play an important role in shaping spatial patterns across residential landscapes.
+
+### Neighborhood Spatial Patterns
+
+<img width="468" height="343" alt="image" src="https://github.com/user-attachments/assets/a28e8edf-cc7a-47db-879f-405b284cef02" />
+This visualization shows how spatial similarity between neighboring residential yards changes as the distance between yards increases. Moran’s I values closer to 1 indicate stronger spatial autocorrelation, meaning nearby neighbors are more likely to have similar yard characteristics or behaviors. The results show that mimicry patterns are strongest among nearby neighbors and gradually decrease as yard distance increases. Different neighbor distance scenarios were analyzed to evaluate how localized social interactions influence spatial patterns across residential landscapes in Chicago.
