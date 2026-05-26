@@ -65,3 +65,5 @@ This visualization shows how spatial similarity between neighboring residential 
 ## Simulation Visualization
 
 ![Simulation](neighborhood-simulation.gif)
+
+This simulation demonstrates how neighboring households interact within the agent-based model and how localized decisions contribute to emerging spatial patterns across residential landscapes.
