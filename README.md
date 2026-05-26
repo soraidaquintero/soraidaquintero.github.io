@@ -1,1 +1,29 @@
-# soraidaquintero.github.io
+# Soraida Quintero – Data Science & Predictive Analytics
+
+I am a PhD researcher working at the intersection of machine learning, predictive analytics, human behavior, and urban systems. My work focuses on statistical modeling, simulation, spatial analysis, and data-driven approaches to better understand complex social and environmental systems.
+
+## Research Interests
+- Machine Learning
+- Predictive Analytics
+- Human Behavior Modeling
+- Urban Analytics
+- Spatial Statistics
+- Agent-Based Modeling
+- Real Estate Analytics
+
+## Current Projects
+- Neighborhood Gentrification Prediction Model
+- Spatial Mimicry in Residential Yards
+- Feral Dog Population Management Modeling
+- Real Estate Consumer Preference Database (in progress)
+
+## Technical Skills
+- R
+- Python
+- SQL
+- Random Forest
+- Spatial Models
+- Linux
+- Bash
+- Statistical Models
+- AWS (in progress)
