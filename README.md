@@ -6,6 +6,9 @@ I am a PhD researcher working at the intersection of machine learning, predictiv
 
 - [About Me](about.md)
 
+## Resume / CV
+
+- [Download CV](Soraida_Quintero_CV.pdf)
 
 ## Featured Projects
 
