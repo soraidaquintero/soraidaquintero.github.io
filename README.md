@@ -10,10 +10,6 @@ I am a PhD researcher working at the intersection of machine learning, predictiv
 
 - [Download CV](Soraida_Quintero_CV.pdf)
 
-## Publications / Articles
-
-- [Publications and Research](publications.md)
-
 ## Featured Projects
 
 ### Neighborhood Gentrification Prediction Model
