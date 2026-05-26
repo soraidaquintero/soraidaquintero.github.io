@@ -12,13 +12,34 @@ I am a PhD researcher working at the intersection of machine learning, predictiv
 
 ## Featured Projects
 
-- [Neighborhood Gentrification Prediction Model](gentrification.md)
-  
-- [Spatial Mimicry and Front Yard Management in Chicago](yard-project.md)
-  
-- [Free-Roaming Dog Population Management Modeling](free-roaming-dog-model.md)
-  
-- Real Estate Consumer Preference Database (in progress)
+### Neighborhood Gentrification Prediction Model
+
+Machine learning and predictive analytics model using historical real estate transaction data and neighborhood-level characteristics to identify early indicators of neighborhood gentrification in Chicago.
+
+[View Project](gentrification.md)
+
+---
+
+### Spatial Mimicry and Front Yard Management in Chicago
+
+Spatial statistical analysis and agent-based modeling project examining mimicry patterns among more than 800 residential yards across Chicago neighborhoods using Local and Global Moran’s I.
+
+[View Project](yard-project.md)
+
+---
+
+### Free-Roaming Dog Population Management Modeling
+
+Simulation-based socio-ecological modeling project integrating ecological, behavioral, and cultural variables to evaluate free-roaming dog population management strategies and population dynamics.
+
+[View Project](free-roaming-dog-model.md)
+
+---
+
+### Real Estate Consumer Preference Database (In Progress)
+
+Predictive analytics and database development project focused on extracting and organizing real estate consumer preference trends, housing behaviors, and neighborhood-level market patterns.
+
 
 ## Technical Skills
 
