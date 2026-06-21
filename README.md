@@ -28,7 +28,7 @@ Machine learning and predictive analytics model using historical real estate tra
 
 Spatial statistical analysis and agent-based modeling project examining mimicry patterns among more than 800 residential yards across Chicago neighborhoods using Local and Global Moran’s I.
 
-[View Project](yard-project.md)
+[View Project](yard-project.md) | [View Scripts](https://github.com/soraidaquintero/YardsChapter/tree/master/Scripts)
 
 ---
 
