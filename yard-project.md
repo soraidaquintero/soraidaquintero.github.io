@@ -38,6 +38,10 @@ The project involved large scale simulation outputs that were computationally in
 
 The goal of this research is to better understand how social interactions contribute to spatial patterns within urban residential landscapes and how these processes influence neighborhood level ecological systems.
 
+## Scripts
+
+- [View R Scripts](https://github.com/soraidaquintero/YardsChapter/tree/master/Scripts)
+
 ## Tools Used
 
 - R
