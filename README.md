@@ -10,6 +10,10 @@ I am a PhD researcher working at the intersection of machine learning, predictiv
 
 - [Download CV](Soraida_Quintero_CV.pdf)
 
+## Scripts 
+
+[Yard Project Scripts](https://github.com/soraidaquintero/YardsChapter/tree/master/Scripts)
+
 ## Featured Projects
 
 ### Neighborhood Gentrification Prediction Model
