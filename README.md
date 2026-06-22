@@ -16,19 +16,19 @@ I am a PhD researcher working at the intersection of machine learning, predictiv
 
 ## Featured Projects
 
+### Spatial Mimicry and Front Yard Management in Chicago
+
+Spatial statistical analysis and agent-based modeling project examining mimicry patterns among more than 800 residential yards across Chicago neighborhoods using Local and Global Moran’s I.
+
+[View Project](yard-project.md) | [View Scripts](https://github.com/soraidaquintero/YardsChapter/tree/master/Scripts) | [Simulation Code Publication](https://www.comses.net/codebases/909cae06-f8fe-4599-be54-c3ca9f8ed554/releases/1.0.0/)
+
+---
+
 ### Neighborhood Gentrification Prediction Model
 
 Machine learning and predictive analytics model using historical real estate transaction data and neighborhood-level characteristics to identify early indicators of neighborhood gentrification in Chicago.
 
 [View Project](gentrification.md)
-
----
-
-### Spatial Mimicry and Front Yard Management in Chicago
-
-Spatial statistical analysis and agent-based modeling project examining mimicry patterns among more than 800 residential yards across Chicago neighborhoods using Local and Global Moran’s I.
-
-[View Project](yard-project.md) | [View Scripts](https://github.com/soraidaquintero/YardsChapter/tree/master/Scripts)
 
 ---
 
