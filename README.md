@@ -8,7 +8,7 @@ I am a PhD researcher working at the intersection of machine learning, predictiv
 
 ## Resume / CV / Publications
 
-- [Resume](Soraida_Quintero_Resume.pdf) | [CV](Soraida_Quintero_CV.pdf) | [Publications](publications.md)
+- [Resume](/Soraida_Quintero_Resume.pdf) | [CV](/Soraida_Quintero_CV.pdf) | [Publications](publications.md)
 
 ## Scripts 
 
