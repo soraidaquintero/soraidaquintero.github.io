@@ -1,4 +1,4 @@
-# Chicago Housing Market Analytics
+# Residential Market Intelligence Dashboard
 
 ## Project Overview
 
